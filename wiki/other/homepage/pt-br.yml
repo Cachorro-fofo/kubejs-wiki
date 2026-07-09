@@ -14,10 +14,9 @@ q-how-use: "Como usar?"
 a-how-use: "Inicie o jogo com o mod instalado. Sera gerado a pasta `kubejs` em seu diretório do minecraft (.minecraft) com scripts de exemplo e o README.txt. Leia isso!"
 
 q-js-help: "Eu não sei JavaScript"
-# a-js-help: "There's examples and pre-made scripts here. And you can always ask in discord support channel for help with scripts, but be specific."
-a-js-help: "Há exemplos e scripts pre prontos aqui. E você sempre pode perguntar <><> in discord support channel for help with scripts, but be specific."
+a-js-help: "Há exemplos e scripts pre prontos aqui. E você sempre pode fazer perguntas no canal de suporte no discord por ajuda com os scripts, mas seja específico."
 
-q-reload: "Can I reload scripts?"
+q-reload: "Posso recarregar os scripts?"
 a-reload-st: "{st-s}: Restart the game or use `/kubejs reload startup_scripts`. Not everything is reloadable - some things require you to restart the game (e.g. registries) or the world (e.g. worldgen)."
 a-reload-se: "{se-s}: Use `/reload` to reload scripts, recipes, tags and all data or `/kubejs reload server_scripts` to reload scripts only"
 a-reload-cl: "{cl-s}: Use `F3 + T` to reload scripts and assets or `/kubejs reload client_scripts` to reload scripts only"
