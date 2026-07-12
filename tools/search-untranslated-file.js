@@ -8,7 +8,7 @@ const TOOLS = path.join(CWD, "tools");
 const EXCLUDE_PATHS = ["test/", "ref/"];
 
 //!!! Remember to change this
-const targetLanguageCode = 'pt-br';
+const targetLanguageCode = null;
 
 // use: node tools/search-untranslated-file
 
